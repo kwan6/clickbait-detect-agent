@@ -84,7 +84,7 @@ streamlit run dashboard.py
 
 ## Evaluasi di data lapangan
 
-Model ini mencapai 95.39% accuracy di dataset benchmark CLICK-ID (test set terkurasi). Untuk cek performa di data real-time (bukan dataset yang sudah dikurasi), saya labeling manual 40 headline hasil scraping RSS Detik dan Antara, lalu bandingkan dengan keputusan sistem:
+Model ini mencapai 95.39% accuracy di dataset benchmark CLICK-ID (test set terkurasi). Untuk cek performa di data real-time (bukan dataset yang sudah dikurasi), saya labeling manual 40 headline (dan akan berlanjut) hasil scraping RSS Detik dan Antara, lalu bandingkan dengan keputusan sistem:
 
 | Metrik | Nilai |
 |---|---|
